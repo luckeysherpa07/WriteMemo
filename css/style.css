@@ -1,0 +1,28 @@
+.container{
+	font-family: 'Roboto Condensed', sans-serif;
+	height: auto;
+	width: 700px;
+	align-content: center;
+	background-color: #bbb;
+}
+
+::-webkit-input-placeholder {
+   color: grey;
+}
+
+.card .card-content pre {
+	font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
+    color: inherit;
+}
+
+#headlineBox{
+	background-color: #bbb;
+}
+
+#headline{
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 30px;
+	padding: -5px -5px;
+
+}
